@@ -1,0 +1,201 @@
+html {
+        /* Size of largest container or bigger */
+        min-width: 1080px;
+    }
+
+
+
+#nav {
+    text-align: justify;
+    min-width: 500px;
+	font-family: monospace;
+        font-size: 25px
+	
+}
+#nav:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+   
+}
+#nav li {
+    display: inline-block;
+}
+    #nav{font-family: monospace;
+        font-size: 25px
+         }
+    
+    #nav a {
+    color: #284530;
+        }
+    
+    #nav a:visited {
+    color:  #284530;
+}
+    
+    #nav a:hover {
+    color: #F2c941;
+  text-decoration: underline
+}
+    
+#nav img 
+{
+height: 125px
+    width:125px 
+}
+    
+    body {background-color:lightgrey;}
+
+div#wrapper {
+  width:960px;      
+  margin-left:auto;
+  margin-right:auto;
+  background-color:grey;
+  padding:25px;
+}
+   
+    div.logotext img {
+        
+        vertical-align: middle;
+        width:200px;
+        height:200px;
+    }
+    
+     .logotext h1 {font-size: 35px;
+        }
+    
+         
+@font-face {
+    font-family: VarelaRound-Regular;
+    src: url("VarelaRound-Regular.ttf");
+}
+
+
+p {
+    font-size:18px;
+    }
+.aboutmetext p {
+	font-size:18px;
+	font-family: VarelaRound-Regular;
+	
+}
+.packagetext p {
+	font-size:18px;
+	font-family: VarelaRound-Regular;
+	
+}
+
+.header p{
+	
+	font-size:18px;
+	font-family: VarelaRound-Regular;
+	
+	
+}
+
+.panel ,h3,{ 
+       
+            font-size: 10px;
+            float: right
+             
+        }
+        
+        div.panel{
+            
+            width:400px;
+             background-color:grey;
+            float:left;
+			
+        }
+       
+        
+        div.panel .pic{
+            border: 
+            width:180px;
+           
+           background-color:grey;
+            float:left;
+        }
+            
+        div.panel .pic{ transition: all .2s ease-in-out; }
+            
+        div.panel .pic:hover { transform: scale(3); }
+       
+        
+        div.panel h3 {
+            padding: right;
+            font-size: 15px;
+            color:#F2c941;
+        }
+        div.panel p {
+        text-align: center;
+         font-size: 15px;
+        color: #253840;
+            }
+        
+        
+        div.photos h1{
+            
+              font-size: 25px;  
+        }
+        
+         div.photos p {
+            
+              font-size: 15px;  
+        }
+footer {
+            clear :both;
+        }
+
+        
+        .logotext h1 {font-size: 35px;
+        }
+        
+        ol {list-style: none}
+        
+        
+       
+         table {
+                border: 1px black solid; 
+                border-collapse:collapse;
+                
+            }
+td, th {
+                border: 1px black solid;
+    font-size: 25px
+            }
+th {
+border-bottom: solid thick #021442;
+background-color:  #F2c941;
+}
+    .aboutprintweb h1{  font-size: 25px;
+		font-family: VarelaRound-Regular;
+	
+    
+    }.
+    .aboutprintweb p {  font-size:18px;
+	font-family: VarelaRound-Regular;
+	
+    }
+    
+      .printpic01 p {  font-size: 15px;  
+    
+    }
+.aboutmotion p {
+	
+	font-size:18px;
+	font-family: VarelaRound-Regular;
+	
+	
+}
+ h2 {font-size: 18px;
+
+}
+
+	
+
+
+
+footer {
+            clear :both;}
+
